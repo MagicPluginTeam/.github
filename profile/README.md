@@ -1,1 +1,1 @@
-# We are making magic
+# Magic Plugin Team
